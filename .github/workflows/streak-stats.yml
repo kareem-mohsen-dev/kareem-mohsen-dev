@@ -1,0 +1,32 @@
+
+name: Generate GitHub Streak
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Streak Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: kareem-mohsen-dev
+          template: classic
+          base: ""
+          plugin_streak: yes
+          plugin_streak_days: 365
+          filename: streak.svg
+
+      - name: Upload Streak
+        uses: actions/upload-artifact@v4
+        with:
+          name: streak
+          path: streak.svg
+          
