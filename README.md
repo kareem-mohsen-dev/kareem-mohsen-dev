@@ -42,18 +42,17 @@
   <img src="https://streak-stats.demolab.com?user=kareem-mohsen-dev&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kareem-mohsen-b48447400/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@sindebad1212">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/19jLzq3WtC/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+<h2 align="center">🎯 My Current Goals</h2>
+
+<p align="center">
+  💻 Improving my Front-End Development skills
+  <br/>
+  🚀 Practicing HTML, CSS and JavaScript
+  <br/>
+  📚 Preparing to learn React
+  <br/>
+  🌍 Looking for Junior Front-End opportunities
 </p>
 
 ## 🐍 Contribution Snake
