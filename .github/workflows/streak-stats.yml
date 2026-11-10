@@ -20,17 +20,8 @@ jobs:
           user: kareem-mohsen-dev
           template: classic
           base: ""
-          plugin_streak: yes
+          plugin_habits: yes
+          plugin_habits_days: 365
+          plugin_habits_facts: yes
           filename: streak.svg
-
-      - name: Publish Streak
-        run: |
-          git clone https://github.com/${{ github.repository }} repo
-          cp streak.svg repo/streak.svg
-          cd repo
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add streak.svg
-          git commit -m "Update streak image" || exit 0
-          git push
           
