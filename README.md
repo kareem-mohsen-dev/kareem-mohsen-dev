@@ -35,11 +35,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohsen-dev&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
-<h2 align="center">🔥 GitHub Activity Stats</h2>
 
-<p align="center">
-  <img src="streak.svg" alt="GitHub Activity Stats" />
-</p>
 
 
 ### 🔥 GitHub Streak
