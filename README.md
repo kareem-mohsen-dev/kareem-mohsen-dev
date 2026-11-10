@@ -40,10 +40,10 @@
 
 ---
 
-<h2 align="center">🔥 GitHub Streak</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="./streak.svg" alt="GitHub Activity Stats" width="90%" />
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
 </p>
 
 ---
