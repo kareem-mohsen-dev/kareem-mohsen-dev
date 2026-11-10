@@ -17,6 +17,7 @@
 - 🎯 Building responsive and user-friendly websites
 - 📍 Mit Ghamr, Dakahlia, Egypt
 
+---
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
@@ -29,26 +30,23 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
+---
+
 <h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohsen-dev&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
-
-
-
-### 🔥 GitHub Streak
-
+---
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kareem-mohsen-dev&theme=tokyonight" />
+  <img src="./streak.svg" alt="GitHub Activity Stats" width="90%" />
 </p>
 
-
-### 🔥 connect With Me
+---
 
 <h2 align="center">⚡ A Little More About Me</h2>
 
@@ -64,6 +62,8 @@
   🚀 Building my journey as a Front-End Developer
 </p>
 
+---
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -78,10 +78,13 @@
   </a>
 </p>
 
+---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/kareem-mohsen-dev/kareem-mohsen-dev/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kareem-mohsen-dev/kareem-mohsen-dev/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
+</p>
 
 ---
 
