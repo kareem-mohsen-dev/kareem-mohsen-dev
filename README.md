@@ -23,11 +23,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git" />
 </p>
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareem-mohsen-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ### 🌐 Connect With Me
 
