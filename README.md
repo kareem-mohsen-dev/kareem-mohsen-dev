@@ -38,9 +38,13 @@
 
 ### 🔥 GitHub Streak
 
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kareem-mohsen-dev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kareem-mohsen-dev&theme=tokyonight" />
 </p>
+
 
 ### 🔥 connect With Me
 
