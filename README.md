@@ -1,27 +1,50 @@
-# Hi, I'm Kareem Mohsen 👋
 
-### Front-End Developer | Computer Science & AI Graduate
+<h1 align="center">Hi 👋, I'm Kareem Mohsen</h1>
 
-I'm a passionate Front-End Developer interested in building responsive, modern, and user-friendly websites.
+<h3 align="center">Front-End Developer | Computer Science & AI Graduate</h3>
 
-## 💻 Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-
-## 🎯 Currently Focused On
-
-- Improving my Front-End Development skills
-- Building responsive web interfaces
-- Learning and practicing modern web technologies
-
-## 📫 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/kareem-mohsen-b48447400/)
-- [Facebook](https://www.facebook.com/share/19jLzq3WtC/)
-- [YouTube](https://www.youtube.com/@sindebad1212)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 👨‍💻 About Me
+
+- 🎓 Computer Science & AI Graduate
+- 💻 Interested in Front-End Development
+- 🌱 Improving my skills in HTML, CSS and JavaScript
+- 🎯 Building responsive and user-friendly websites
+- 📍 Mit Ghamr, Dakahlia, Egypt
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kareem-mohsen-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kareem-mohsen-b48447400/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@sindebad1212">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/19jLzq3WtC/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
