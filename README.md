@@ -23,7 +23,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git" />
 </p>
 
+### 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kareem-mohsen-dev&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 🌐 Connect With Me
 
