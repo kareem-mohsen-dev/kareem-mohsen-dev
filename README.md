@@ -42,18 +42,36 @@
   <img src="https://streak-stats.demolab.com?user=kareem-mohsen-dev&theme=tokyonight&hide_border=true" />
 </p>
 
+### 🔥 connect With Me
 
-<h2 align="center">🎯 My Current Goals</h2>
+<h2 align="center">⚡ A Little More About Me</h2>
 
 <p align="center">
-  💻 Improving my Front-End Development skills
-  <br/>
-  🚀 Practicing HTML, CSS and JavaScript
-  <br/>
-  📚 Preparing to learn React
-  <br/>
-  🌍 Looking for Junior Front-End opportunities
+  🌐 Passionate about Web Development
+  <br>
+  🎨 I enjoy creating clean and modern interfaces
+  <br>
+  💡 Always exploring new technologies
+  <br>
+  🧩 Focused on improving my problem-solving skills
+  <br>
+  🚀 Building my journey as a Front-End Developer
 </p>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kareem-mohsen-b48447400/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@sindebad1212">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1W9dJbzosE/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
 
 ## 🐍 Contribution Snake
 
