@@ -47,6 +47,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/kareem-mohsen-dev/kareem-mohsen-dev/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/kareem-mohsen-dev/kareem-mohsen-dev/output/github-contribution-grid-snake.svg)
+
 ---
 
 <p align="center">
