@@ -60,6 +60,27 @@
 
 ---
 
+<h2 align="center">🚀 Featured Project</h2>
+
+<h3 align="center">📖 Quran Muslim</h3>
+
+<p align="center">
+  An Arabic Islamic website built with HTML, CSS and JavaScript.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kareem-mohsen-dev/kareem">
+    <img src="https://img.shields.io/badge/View%20Source-GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
