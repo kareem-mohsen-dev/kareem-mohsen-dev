@@ -3,7 +3,6 @@
   <img src="./file_00000000d888820aab603527d7151d34 (1).gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm KAREEM MOHSEN</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Front-End+Developer;Computer+Science+%26+AI+Graduate;HTML+%7C+CSS+%7C+JavaScript;Always+Learning+New+Things" />
