@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Kareem Mohsen</h1>
+
 
 <h3 align="center">Front-End Developer | Computer Science & AI Graduate</h3>
 
