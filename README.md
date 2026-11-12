@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./github-black-neon-green-banner.gif" width="100%" alt="Black and Green Animated Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Kareem Mohsen</h1>
 
 <h3 align="center">Front-End Developer | Computer Science & AI Graduate</h3>
