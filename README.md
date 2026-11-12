@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="./github-black-neon-green-banner.gif" width="100%" alt="Black and Green Animated Banner"/>
+  <img src="./kareem-mohsen-animated-github-banner.gif" width="100%" alt="Hi, I'm Kareem Mohsen"/>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Kareem Mohsen</h1>
 
