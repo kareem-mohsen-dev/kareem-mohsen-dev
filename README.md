@@ -2,7 +2,6 @@
   <img src="./github-black-neon-green-banner.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm KAREEM MOHSEN</h1>
 
 
 <h1 align="center">Hi 👋, I'm Kareem Mohsen</h1>
