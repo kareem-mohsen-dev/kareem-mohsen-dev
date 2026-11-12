@@ -36,11 +36,19 @@
 
 ---
 
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kareem-mohsen-dev&show_icons=true&theme=tokyonight&hide_border=true" width="95%" />
 </p>
+
+<h2 align="center">💻 Most Used Languages</h2>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kareem-mohsen-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="95%" />
+</p>
+
 
 ---
 
