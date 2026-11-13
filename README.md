@@ -55,6 +55,16 @@
 
 ---
 
+<h2 align="center">📈 GitHub Activity Graph</h2>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohsen-dev&bg_color=000000&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+---
+
 <h2 align="center">⚡ A Little More About Me</h2>
 
 <p align="center">
