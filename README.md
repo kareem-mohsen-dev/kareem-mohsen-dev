@@ -3,7 +3,7 @@
   <img src="./file_00000000d888820aab603527d7151d34 (1).gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm KAREEM MOHSEN</h1>
+
 
 <h3 align="center">⚡ Front-End Developer | Computer Science & AI Graduate</h3>
 
