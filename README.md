@@ -55,11 +55,17 @@
 
 ---
 
+
 <h2 align="center">📈 GitHub Activity Graph</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohsen-dev&bg_color=000000&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohsen-dev&bg_color=000000&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
+
 
 ---
 
