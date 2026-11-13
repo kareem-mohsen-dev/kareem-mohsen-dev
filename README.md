@@ -39,17 +39,19 @@
 
 ---
 
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareem-mohsen-dev&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF" width="95%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kareem-mohsen-dev&show_icons=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&hide_border=true" width="95%" />
 </p>
 
 <h2 align="center">💻 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-mohsen-dev&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=00FF66&text_color=FFFFFF" width="95%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kareem-mohsen-dev&layout=compact&langs_count=6&bg_color=000000&title_color=00FF66&text_color=FFFFFF&hide_border=true" width="95%" />
 </p>
+
 
 ---
 
