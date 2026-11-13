@@ -84,22 +84,21 @@
 ---
 
 
+
 <h2 align="center">🚀 FEATURED PROJECT</h2>
 
-<table align="center">
-<tr>
-<td width="100%">
-
-<h3 align="center">📖 Quran Muslim</h3>
-
 <p align="center">
-A modern Islamic website built to provide useful Islamic content and daily tools.
+  <b>📖 QURAN MUSLIM</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF66" />
+  An Islamic website designed to make Quran, Azkar and Islamic resources accessible in one place.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-00FF66?style=for-the-badge&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-00FF66?style=for-the-badge&logo=css3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-00FF66?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 <p align="center">
@@ -111,16 +110,13 @@ A modern Islamic website built to provide useful Islamic content and daily tools
 
 <p align="center">
   <a href="https://kareem-mohsen-dev.github.io/kareem/">
-    <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00FF66?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/LIVE_DEMO-00FF66?style=for-the-badge&logo=googlechrome&logoColor=black"/>
   </a>
   <a href="https://github.com/kareem-mohsen-dev/kareem">
-    <img src="https://img.shields.io/badge/💻_SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=00FF66" />
+    <img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=00FF66"/>
   </a>
 </p>
 
-</td>
-</tr>
-</table>
 
 
 ---
