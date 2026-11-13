@@ -30,6 +30,7 @@
 ---
 
 
+
 <h2 align="center">🚀 FEATURED PROJECT</h2>
 
 <table align="center">
@@ -67,6 +68,7 @@ A modern Islamic website built to provide useful Islamic content and daily tools
 </td>
 </tr>
 </table>
+
 
 ---
 
