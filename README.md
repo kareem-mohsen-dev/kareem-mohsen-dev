@@ -29,27 +29,44 @@
 
 ---
 
-<h2 align="center">🎯 CURRENT FOCUS</h2>
+
+<h2 align="center">🚀 FEATURED PROJECT</h2>
+
+<table align="center">
+<tr>
+<td width="100%">
+
+<h3 align="center">📖 Quran Muslim</h3>
 
 <p align="center">
-  🌱 Improving JavaScript skills<br><br>
-  💻 Building responsive websites<br><br>
-  🧠 Practicing problem-solving<br><br>
-  🚀 Growing as a Professional Front-End Developer
+A modern Islamic website built to provide useful Islamic content and daily tools.
 </p>
-
----
-
-<h2 align="center">🛠️ TECH STACK</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF66" />
 </p>
+
+<p align="center">
+  ✨ Quran & Audio Recitations<br>
+  📚 Islamic Stories & Videos<br>
+  📿 Digital Tasbeeh<br>
+  🌙 Daily Azkar
+</p>
+
+<p align="center">
+  <a href="https://kareem-mohsen-dev.github.io/kareem/">
+    <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00FF66?style=for-the-badge&labelColor=000000" />
+  </a>
+  <a href="https://github.com/kareem-mohsen-dev/kareem">
+    <img src="https://img.shields.io/badge/💻_SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=00FF66" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
