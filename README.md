@@ -24,6 +24,25 @@
   📍 Mit Ghamr, Dakahlia, Egypt
 </p>
 
+
+---
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<p align="center">
+  🌱 Improving my JavaScript skills
+  <br><br>
+  💻 Building responsive websites
+  <br><br>
+  🧠 Practicing problem-solving
+  <br><br>
+  🚀 Working towards becoming a Professional Front-End Developer
+  <br><br>
+  📚 Preparing to learn modern Front-End technologies
+</p>
+
+---
+
 ---
 
 <h2 align="center">🛠️ Languages & Tools</h2>
@@ -56,15 +75,7 @@
 ---
 
 
-<h2 align="center">📈 GitHub Activity Graph</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohsen-dev&bg_color=000000&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</p>
 
 
 ---
