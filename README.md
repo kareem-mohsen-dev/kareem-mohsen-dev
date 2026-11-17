@@ -84,16 +84,17 @@
 ---
 
 
+
 <h2 align="center">🚀 FEATURED PROJECT</h2>
 
 <table align="center">
 <tr>
 <td width="100%">
 
-<h3 align="center">📖 Quran Muslim</h3>
+<h3 align="center">🛍️ Kemo Store</h3>
 
 <p align="center">
-A modern Islamic website built to provide useful Islamic content and daily tools.
+A modern fashion e-commerce website with a clean design and responsive layout.
 </p>
 
 <p align="center">
@@ -103,24 +104,20 @@ A modern Islamic website built to provide useful Islamic content and daily tools
 </p>
 
 <p align="center">
-  ✨ Quran & Audio Recitations<br>
-  📚 Islamic Stories & Videos<br>
-  📿 Digital Tasbeeh<br>
-  🌙 Daily Azkar
-</p>
-
-<p align="center">
-  <a href="https://kareem-mohsen-dev.github.io/kareem/">
-    <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00FF66?style=for-the-badge&labelColor=000000" />
+  <a href="https://kareem-mohsen-dev.github.io/kemo-store/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-00FF66?style=for-the-badge&logo=googlechrome&logoColor=000000" />
   </a>
-  <a href="https://github.com/kareem-mohsen-dev/kareem">
-    <img src="https://img.shields.io/badge/💻_SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=00FF66" />
+  <a href="https://github.com/kareem-mohsen-dev/kemo-store">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=00FF66" />
   </a>
 </p>
 
 </td>
 </tr>
 </table>
+
+---
+
 
 
 ---
